@@ -1,0 +1,33 @@
+{
+  "name": "minecraft-uuid-validator",
+  "version": "1.0.0",
+  "description": "A minecraft UUID validator for those wanting to make a JS/TS API for their minecraft servers.",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dr-Fabian/minecraft-uuid-validator.git"
+  },
+  "keywords": [
+    "Minecraft",
+    "UUID",
+    "validator"
+  ],
+  "author": "Fabian#9101",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dr-Fabian/minecraft-uuid-validator/issues"
+  },
+  "homepage": "https://github.com/Dr-Fabian/minecraft-uuid-validator#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.6.0",
+    "@typescript-eslint/parser": "^4.6.0",
+    "eslint": "^7.12.1",
+    "typescript": "^4.0.5"
+  },
+  "dependencies": {
+    "@types/node": "^14.14.6"
+  }
+}
