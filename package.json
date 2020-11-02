@@ -1,5 +1,5 @@
 {
-  "name": "minecraft-uuid-validator",
+  "name": "@dr-fabian/minecraft-uuid-validator",
   "version": "1.0.0",
   "description": "A minecraft UUID validator for those wanting to make a JS/TS API for their minecraft servers.",
   "main": "lib/index.js",
